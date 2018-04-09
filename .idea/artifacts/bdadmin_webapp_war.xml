@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="bdadmin-webapp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war</output-path>
+    <root id="archive" name="bdadmin-webapp_war.war">
+      <element id="artifact" artifact-name="bdadmin-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
