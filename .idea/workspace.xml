@@ -6,87 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="6b4169bf-d4e1-495d-a6d1-508c8c6e0a97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdain/command/JsonResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdain/command/UserDaoCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdain/command/UserServiceCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/Dto/DeptDto.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/Dto/UserDto.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/controllar/DeptInfoControllar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/controllar/UserInfoControllar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/dao/AdministratorDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/dao/DeptDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/dao/RunRecordHisDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/daoImp/AdministratorDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/daoImp/DeptDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/daoImp/RunRecordHisDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/daoImp/UserDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/Administrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/Dept.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/DeptQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/RunRecordHis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/RunRecordHisLog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/RunRecordHisQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/model/UserQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/service/AdministratorService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/service/DeptService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/service/RunRecordHisService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/serviceImp/AdministratorServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/serviceImp/DeptServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/serviceImp/RunRecordHisServiceImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/serviceImp/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/servlet/UserServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/WEB-INF/classes/com/lingdian/unit/UnitMysql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdain/command/UserDaoCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdain/command/UserServiceCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/Dto/DeptDto.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/Dto/UserDto.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/controllar/DeptInfoControllar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/controllar/UserInfoControllar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/dao/AdministratorDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/dao/DeptDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/dao/RunRecordHisDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/daoImp/AdministratorDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/daoImp/DeptDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/daoImp/RunRecordHisDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/daoImp/UserDaoImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/Administrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/Dept.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/DeptQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/RunRecordHis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/RunRecordHisLog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/RunRecordHisQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/model/UserQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/service/AdministratorService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/service/DeptService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/service/RunRecordHisService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/serviceImp/AdministratorServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/serviceImp/DeptServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/serviceImp/RunRecordHisServiceImp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/serviceImp/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/servlet/UserServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/WEB-INF/classes/com/lingdian/unit/UnitMysql.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/bdadmin_webapp_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/bdadmin-webapp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/DeptInfoControllar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/daoImp/DeptDaoImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/daoImp/UserDaoImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/service/DeptService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/service/RunRecordHisService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/servlet/UserServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/unit/UnitMysql.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/jsp/error/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bdadmin-webapp/web/jsp/user/addPerson.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/bdadmin_webapp_war_exploded/index.jsp" />
+    <list default="true" readonly="true" id="6b4169bf-d4e1-495d-a6d1-508c8c6e0a97" name="Default" comment="@peter">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="bdadmin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -264,7 +185,7 @@
       <file leaf-file-name="UserInfoControllar.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77223426">
+            <state vertical-scroll-proportion="0.55748373">
               <caret line="155" column="21" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
               <folding />
             </state>
@@ -383,8 +304,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="54" />
+    <option name="x" value="-329" />
+    <option name="y" value="167" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -1319,7 +1240,7 @@
       <workItem from="1521595570353" duration="524000" />
       <workItem from="1521596193508" duration="292000" />
       <workItem from="1522716997302" duration="749000" />
-      <workItem from="1523245184292" duration="2774000" />
+      <workItem from="1523245184292" duration="5190000" />
     </task>
     <task id="LOCAL-00001">
       <created>1520997770547</created>
@@ -1327,14 +1248,26 @@
       <option name="project" value="LOCAL" />
       <updated>1520997770547</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="@lujunfei">
+      <created>1523252710668</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523252710668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="@peter">
+      <created>1523253571801</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1523253571801</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230281000" />
+    <option name="totallyTimeSpent" value="232697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="54" width="1936" height="1056" extended-state="0" />
+    <frame x="-329" y="167" width="1936" height="1056" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1378,26 +1311,28 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="@lujunfei" />
+    <MESSAGE value="@peter" />
+    <option name="LAST_COMMIT_MESSAGE" value="@peter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java</url>
-          <line>291</line>
+          <line>292</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java</url>
-          <line>237</line>
+          <line>238</line>
           <properties />
           <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java</url>
-          <line>194</line>
+          <line>195</line>
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
@@ -1845,7 +1780,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bdadmin-webapp/src/com/lingdian/controllar/UserInfoControllar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77223426">
+        <state vertical-scroll-proportion="0.55748373">
           <caret line="155" column="21" selection-start-line="155" selection-start-column="21" selection-end-line="155" selection-end-column="21" />
           <folding />
         </state>
