@@ -154,7 +154,6 @@ public class UserInfoControllar {
 ////                        userDto.setDeptId(item.getDeptId());
 ////                    }
 ////                }
-
 //                userDto.setPhone(item.getPhone());
 //                userDto.setUserStatus(item.getUserStatus()); //就职状态
 //                if (item.getUserStatus() == 0) {
