@@ -27,7 +27,7 @@ import java.util.*;
  */
 public class DeptInfoControllar {
     DeptService deptService = new DeptServiceImpl();
-    UserService  userService = new UserServiceImpl();//dsd
+    UserService  userService = new UserServiceImpl();
 
 
     /**
