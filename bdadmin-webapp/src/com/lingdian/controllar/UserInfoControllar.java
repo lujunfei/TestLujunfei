@@ -150,11 +150,10 @@ public class UserInfoControllar {
 ////                if (item.getDeptId() != null) {
 ////                    Dept dept = deptService.getDeptById(item.getDeptId());
 ////                    if (dept != null) {
-////                        userDto.setDeptName(dept.getDeptName());//获取部门名称
+////                        userDto.setDeptName(dept.getDeptName());//获取部门名称的名称
 ////                        userDto.setDeptId(item.getDeptId());
 ////                    }
 ////                }
-
 //                userDto.setPhone(item.getPhone());
 //                userDto.setUserStatus(item.getUserStatus()); //就职状态
 //                if (item.getUserStatus() == 0) {
